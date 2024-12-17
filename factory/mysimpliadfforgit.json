@@ -1,0 +1,9 @@
+{
+	"name": "mysimpliadfforgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e43071b-2309-42a2-8243-08485266aa4b",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
